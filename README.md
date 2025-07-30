@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Daniel</h1>
+<h3 align="center">Faço um curso no SENAI onde trabalho com desenvolvimento de sistemas.</h3>
 
-<!--
-**Danielzzr/Danielzzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielzzr" alt="danielzzr" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **desenvolvimento de sistemas.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como entrar em contato comigo **danielfelixdeoliveira03@gmail.com**
+
+- ⚡ Curiosidade: **Sou engraçado e focado**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://instagram.com/olivveira.df" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olivveira.df" height="30" width="40" /></a>
+</p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielzzr&show_icons=true&locale=en" alt="danielzzr" /></p>
